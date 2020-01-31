@@ -17,5 +17,10 @@ function wordsInCommon(words1, words2) {
 
 
 function kidsGame(names) {
-  // Replace this with your code
+  output = output.shift();
+  firstLetterToWords = {};
+
+  for (const name of names) {
+    if ()
+  }
 }
